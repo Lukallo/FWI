@@ -1,7 +1,4 @@
 # FWI library reference
-
-Abandon all hope, ye who enter here - Dante
-
 ## Python library Dependencies
 
 **math**  
