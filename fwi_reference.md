@@ -315,11 +315,11 @@ calc_dmc(
 
 12) $M_o = 20 + 280 e ^ {-0.023P_o}$
 
-13) - $\,\text{if}\enspace P_o <= 33 : \enspace b = 100 / (0.5 + 0.3P_o)$
+13) - $\\,\text{if}\enspace P_o <= 33 : \enspace b = 100 / (0.5 + 0.3P_o)$
 
-    - $\,\text{if}\enspace 33 < P_o <= 65 : \enspace b = 14 - 1.3\ln{P_o}$
+    - $\\,\text{if}\enspace 33 < P_o <= 65 : \enspace b = 14 - 1.3\ln{P_o}$
 
-    - $\,\text{if}\enspace P_o > 65 : \enspace b = 6.2\ln{P_o} - 17.2$
+    - $\\,\text{if}\enspace P_o > 65 : \enspace b = 6.2\ln{P_o} - 17.2$
 
 14) $M_r = M_o + 1000{r_e}/{(48.77 + {b}{r_e})}$
 
